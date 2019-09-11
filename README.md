@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-Probability-Prediction
+# Telco-Customer-Churn-Prediction
 In this project, we use supervised learning models to identify customers who are likely to stop using service in the future. Furthermore, we will analyze top factors that influence user retention.
 
 Customer churn is a very common metric in business field. For example：Netflix subscription, Amazon Prime 
