@@ -8,5 +8,5 @@ Customer churn is a very common metric in business field. For example：Netflix 
     Part 3: Model Training and Results Evaluation
     Part 4: Feature Selection
 
-If you can't load the jupyter notebook, please open following link: 
+Please open the following link to load jupyter notebook: 
 https://nbviewer.jupyter.org/github/yiyuanliang/Telco-Customer-Churn-Prediction/blob/master/Telco-Customer-Churn-Prediction.ipynb
